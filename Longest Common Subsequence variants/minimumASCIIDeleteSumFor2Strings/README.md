@@ -1,6 +1,6 @@
 Approach
 
-    1.This question is just a variation of lcs as there we need to find out the length,here we need to find out sum of their ascii values, just a slight change is there i.e we need to add the ascii value of the character which is equal 
+    1.This question is just a variation of lcs as there we need to find out the length,here we need to find out sum of their ascii values, just a slight change is there i.e we need to add the ascii value of the character to dp[i][j] when s1[i-1]==s2[j-1]
     
     2.At last we have our ans which is basically the sum of ascii value of the longest common subsequence. 
 
