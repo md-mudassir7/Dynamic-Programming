@@ -1,3 +1,5 @@
+Problem [link](https://leetcode.com/problems/delete-and-earn/)
+
 Approach
 
     1.First of all, we will store the frequency of each number in an array of length 10000 (because nums[i] go from1 to 10000).
