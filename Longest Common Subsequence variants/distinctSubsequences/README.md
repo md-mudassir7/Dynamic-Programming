@@ -9,3 +9,5 @@ Approach
     4.If the chars are not same then its just i-1,j
     
     5.Note here that we are not changing j pointer because we know that all subsequences of s must exactly match with t 
+
+Click [here](https://www.youtube.com/watch?v=-RDzMJ33nx8) for better understanding
