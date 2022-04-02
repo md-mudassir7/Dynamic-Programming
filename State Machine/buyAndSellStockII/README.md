@@ -1,4 +1,4 @@
-Approach
+Approach(class Solution1)
 
     1.At any index in the array we can either buy or not buy or if we have bought any stock previously we can sell or not sell
 
@@ -12,8 +12,15 @@ Approach
 
     6.The comments in the code give a proper explaination
 
-Approach2
+Approach2(class Solution2)
 
-    1.The second solution shows that we will buy the stock everytime when we know that the next day its value is higher i.e(prices[i+1]>prices[i])
+    1.This is a bottom up approach of the above recursion solution
+
+    2.The code gives proper understanding
+
+Approach3(class Solution3)
+
+    1.The second solution shows that we will buy the stock everytime when we know that the next day its value is higher 
+    i.e(prices[i+1]>prices[i])
 
     2.We keep on adding the profits i.e(prices[i+1]-prices[i]) everytime we encounter the above condition
