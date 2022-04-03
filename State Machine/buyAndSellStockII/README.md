@@ -24,3 +24,5 @@ Approach3(class Solution3)
     i.e(prices[i+1]>prices[i])
 
     2.We keep on adding the profits i.e(prices[i+1]-prices[i]) everytime we encounter the above condition
+
+[Click Here for the intuition of approach 3](https://www.youtube.com/watch?v=3gtcRtvDCpA)
