@@ -25,4 +25,6 @@ Approach3(class Solution3)
 
     2.We keep on adding the profits i.e(prices[i+1]-prices[i]) everytime we encounter the above condition
 
-[Click Here for the intuition of approach 3](https://www.youtube.com/watch?v=3gtcRtvDCpA)
+    3.This is a greedy approach not a dynamic programming approach
+
+Click [Here] for the intuition of approach 3(https://www.youtube.com/watch?v=3gtcRtvDCpA)
