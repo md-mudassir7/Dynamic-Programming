@@ -1,4 +1,4 @@
-Approach
+Approach(class Solution1)
 
     1.At any index in the array we can either buy or not buy or if we have bought any stock previously we can sell or not sell
 
@@ -13,3 +13,11 @@ Approach
     6.The only change here is that when we can sell and we decide to sell then we move 2 steps ahead inorder to skip the cooldown day 
 
     6.The comments in the code give a proper explaination
+
+Approach(class Solution2)
+
+    1.It is a bottom up dynamic programing based solution of the above recusrion code
+
+    2.We create dp matrix of size (n+2)x(2), (n+2) because we can handle exception 
+
+    3.The code gives proper explaination
