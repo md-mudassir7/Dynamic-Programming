@@ -20,6 +20,4 @@ Approach(class Solution2)
 
     1.It is a bottom up dynamic programing based solution of the above recusrion code
 
-    2.We create dp matrix of size (n+2)x(2), (n+2) because we can handle exception 
-
     3.The code gives proper explaination
