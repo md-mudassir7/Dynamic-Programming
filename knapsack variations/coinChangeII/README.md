@@ -26,4 +26,5 @@ Approach(space optimised)
 
     2.We use 2 array instead of a matrix to compute and at the end of every iteration we assign prev to current vector
 
-    3.The code gives a proper understanding 
+    3.The comments in the code gives a proper understanding 
+
