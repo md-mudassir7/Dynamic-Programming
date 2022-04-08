@@ -8,7 +8,7 @@ public:
             for(int j=0;j<triangle[i].size();j++){
                 //If the element is last element of row
                 //Hence the falling path sum for this element will be the sum coming from its diagonally previous element([i-1][j-1])
-                if(j==triangle[i].size()-1)
+                if(j==i)
                     triangle[i][j]+= triangle[i-1][j-1]; 
                 //Else it is the the minimum falling sum coming from its upper value and diagonally previous value
                 else
