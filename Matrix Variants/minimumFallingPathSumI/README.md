@@ -11,3 +11,12 @@ Approach
     4.dp[i][j] is the minimum of 3 values(top diagonally left,top diagonally right and the top value)
 
     5.At the end we return the minimum value stored in the last row of dp matrix
+
+
+Approach2
+
+    1.This is a space optimised solution for the above dp code
+
+    2.Instead of creating the dp matrix we Modify the existing matrix itself and return the minimum value stored in the last row of the matrix
+
+    3.The code gives better understanding
